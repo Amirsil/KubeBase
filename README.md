@@ -1,2 +1,2 @@
-# KubeBase---Backend-as-a-Service
-Cloud Native solution to BaaS for serverless computing
+# KubeBase
+Cloud Native solution to Backend as a Service for serverless computing
